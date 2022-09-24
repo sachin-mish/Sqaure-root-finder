@@ -1,0 +1,3 @@
+num=int(input("enter number : "))
+square=num*num
+print("square root is :", square)
